@@ -1,12 +1,12 @@
 # Pandas-Challenge
-## Data Analytics Bootcamp - Pandas Assignment Submission by Shailesh Godkhindi
+### Data Analytics Bootcamp - Pandas Assignment Submission by Shailesh Godkhindi
 
 # Pandas Homework - Pandas, Pandas, Pandas
 
 # Solution- Heroes of Pymoli
 
 ## Solved_Code
-[Solved_Code](HeroesOfPymoli/HeroesOfPymoli.ipynb)
+[Solved_Code - HeroesOfPymoli](HeroesOfPymoli/HeroesOfPymoli.ipynb)
 
 
 ## Option 1: Heroes of Pymoli
